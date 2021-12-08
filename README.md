@@ -27,7 +27,7 @@
 
 
 ## Real Time Results
-<img src="https://i.postimg.cc/mZK4LCJD/ezgif-com-gif-maker.gif">
+<img src="https://github.com/Stefanpe95/UNOCardDetectionRealTime/blob/main/realtime.gif" width="640px">
 
 ## Steps
 <br />
