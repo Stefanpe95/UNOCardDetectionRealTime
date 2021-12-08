@@ -1,0 +1,28 @@
+item { 
+	name:'Change'
+	id:1
+}
+item { 
+	name:'Green6'
+	id:2
+}
+item { 
+	name:'Green9'
+	id:3
+}
+item { 
+	name:'Plus2Red'
+	id:4
+}
+item { 
+	name:'Plus2Blue'
+	id:5
+}
+item { 
+	name:'Plus4'
+	id:6
+}
+item { 
+	name:'SwapRed'
+	id:7
+}
